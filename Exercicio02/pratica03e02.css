@@ -1,0 +1,27 @@
+.titulo {
+  font-size: 33px;
+}
+
+* {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  background: #131313;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  margin-top: 320px;
+  flex-direction: column;
+  margin: 150px auto;
+  justify-content: center;
+  max-width: 500px;
+  border-radius: 10px;
+  align-items: center;
+  background: #858585;
+}
