@@ -1,0 +1,46 @@
+#soma,
+#divisão,
+#subtração,
+#multiplicação,
+#resto {
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+}
+
+* {
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #131313;
+}
+
+#soma {
+  color: green;
+}
+
+#subtração {
+  color: red;
+}
+
+#multiplicação {
+  color: blue;
+}
+
+#divisão {
+  color: orange;
+}
+
+#resto {
+  color: purple;
+}
+
+.numero {
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 0.5rem;
+  background: #131313;
+  color: #fff;
+}
