@@ -1,0 +1,23 @@
+#titulo {
+  font-size: 20px;
+}
+
+* {
+  background: #131313;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+main {
+  display: flex;
+  margin-top: 320px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
